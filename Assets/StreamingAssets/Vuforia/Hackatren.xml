@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="VitoCruz" size="100.000000 18.346046" />
+    <ImageTarget name="UN" size="100.000000 18.346046" />
+    <ImageTarget name="Roosevelt" size="100.000000 18.346046" />
+    <ImageTarget name="EDSA" size="100.000000 18.346046" />
+    <ImageTarget name="DJose" size="100.000000 18.346046" />
+    <ImageTarget name="Central" size="100.000000 18.346046" />
+  </Tracking>
+</QCARConfig>
